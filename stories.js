@@ -59,4 +59,19 @@ export default [
       },
     ],
   },
+  {
+    userId: "5",
+    username: "KG",
+    stories: [
+      {
+        uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/vertical-images/3.jpg",
+      },
+      {
+        uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/vertical-images/6.jpg",
+      },
+      {
+        uri: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/vertical-images/7.jpg",
+      },
+    ],
+  },
 ];
